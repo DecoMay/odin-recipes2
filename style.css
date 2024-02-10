@@ -1,0 +1,11 @@
+body {
+    background-color: gray;
+}
+
+.title {
+    text-align: center;
+}
+
+.recipes {
+    background-color: lightgray;
+}
